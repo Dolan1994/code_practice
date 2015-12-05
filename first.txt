@@ -1,0 +1,5 @@
+Create a webpage using HTML, CSS, and JavaScript that:
+	-Has a few buttons that do things
+	-Changes the background color to yellow if the user presses 'y', red if 'r', and blue if 'b'.
+	-Any other flair with HTML and CSS; just a basic beginning thing for the first commit.
+Add the files to a folder called 'your_name' and push the folder and files to GitHub.
