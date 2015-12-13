@@ -1,0 +1,42 @@
+h1 {
+	font-family: Times New Roman;
+	font-size: 16pt;
+	color: #d83d3d;
+}
+
+div.button {
+	border-radius: 5px;
+	background-color: #4adda1;
+	padding: 5px;
+	border: 1px solid black;
+	display: inline-block;
+	cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+div.button:hover {
+	background-color: red;
+}
+
+div p {
+	position: relative;
+	margin: auto;
+}
+
+div {
+	display: block;
+}
+
+img#2 {
+	float: left;
+}
+
+img#3 {
+	float: right;
+}
